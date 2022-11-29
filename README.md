@@ -1,1 +1,1 @@
-# haxor-challenge-template
+# Haxor Challenge Template

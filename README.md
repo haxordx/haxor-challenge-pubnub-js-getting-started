@@ -60,7 +60,7 @@ This is a short example, so we don't expect you to open more than one issue for 
   </tr> 
 </table>
 
-## Completing the Challenge
+## Adding Your Solution
 
 > This is essentially the exit criteria that Haxor moderators will use to validate the developer completed the challenge.
 

@@ -40,15 +40,7 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
   </tr> 
 </table>
 
-### Web
-
-### CLI
-
-#### Feedback
-
-#### Bug
-
-## Exit Criteria
+## Completing the Challenge
 
 Your program should output the following text:
 

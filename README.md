@@ -20,7 +20,7 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
 
 ## Exit Criteria
 
-Your program should return the following text:
+Your program should output the following text:
 
 ```
 Mild Splendour of the various-vested Night!

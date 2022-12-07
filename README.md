@@ -26,7 +26,7 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
      <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206285125-c33c7ca5-2359-428a-9e18-6a67b4ecf72e.png" /></a>
    </td>
    <td>
-     <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
+     <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=bug"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
    </td>
  </tr>
   

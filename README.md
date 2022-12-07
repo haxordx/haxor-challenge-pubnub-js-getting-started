@@ -8,7 +8,7 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
 
 <a href="https://github.com/haxordx/challenges"><img src="https://user-images.githubusercontent.com/318295/206277369-fc07ee13-452b-41da-abbc-c8a871e15216.png" width="100" alt="Leave this here" /></a>
 
-## Requirements
+## Prerequisites
 
 - NodeJS
 

@@ -8,7 +8,7 @@
 
 Your goal is to get started with the Tesseract.js library. 
 
-> Leave the following text
+> Leave the following text for developers who discover Haxor through this repo.
 
 This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](https://github.com/haxordx/challenges).
 

@@ -18,6 +18,26 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
 2. Use the [tesseract.js documentation](https://github.com/naptha/tesseract.js#tesseractjs) to setup a Tesseract.js project
 3. Configure tesseract.js to identify the text in the image from step 1.
 
+## Submitting Feedback
+
+### Web
+
+<a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206283837-165ec682-7f48-4162-879b-7ef4bc0758aa.png" /></a>
+
+<a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
+
+### CLI
+
+#### Feedback
+```
+gh issue create -l "feedback" -w -b "`replayable --md`
+```
+
+#### Bug
+```
+gh issue create -l "bug" -w -b "`replayable --md`
+```
+
 ## Exit Criteria
 
 Your program should output the following text:

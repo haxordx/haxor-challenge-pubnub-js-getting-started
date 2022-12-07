@@ -20,23 +20,33 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
 
 ## Submitting Feedback
 
+<table>
+ <tr>
+   <td>
+     <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206285125-c33c7ca5-2359-428a-9e18-6a67b4ecf72e.png" /></a>
+   </td>
+   <td>
+     <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
+   </td>
+ </tr>
+  
+ <tr>
+   <td>
+     <code>gh issue create -l "feedback" -w -b "`replayable --md`"</code>
+   </td>
+   <td>
+     <code>gh issue create -l "bug" -w -b "`replayable --md`"</code>
+   </td>
+  </tr> 
+</table>
+
 ### Web
-
-<a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206283837-165ec682-7f48-4162-879b-7ef4bc0758aa.png" /></a>
-
-<a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
 
 ### CLI
 
 #### Feedback
-```
-gh issue create -l "feedback" -w -b "`replayable --md`
-```
 
 #### Bug
-```
-gh issue create -l "bug" -w -b "`replayable --md`
-```
 
 ## Exit Criteria
 

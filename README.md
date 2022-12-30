@@ -1,14 +1,11 @@
-> Replace this logo with your own.
+<img src="https://user-images.githubusercontent.com/318295/210098460-488a8ea7-0c7d-4c54-a220-69f41c56b737.png" height="60">
 
-<img height="100" alt="CleanShot 2022-12-07 at 13 34 56@2x" src="https://user-images.githubusercontent.com/318295/206278452-7823741a-8910-4c4c-8e9b-693cd1141052.png">
+# PubNub Chat - Haxor Challenge
 
-# Tesseract.js Haxor Challenge
+Your goal is to create simple chat application that can send messages between two browser windows. The chat app does not need to be styled, but it does need to work!
 
-> Include a brief overview and a 1 - 2 sentence pitch.
+<img width="845" alt="CleanShot 2022-12-30 at 13 17 10@2x" src="https://user-images.githubusercontent.com/318295/210105044-5dd9343c-4686-4f59-8e31-b5e55c3e64ee.png">
 
-Your goal is to get started with the Tesseract.js library. 
-
-> Leave the following text for developers who discover Haxor through this repo.
 
 This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](https://github.com/haxordx/challenges).
 
@@ -16,37 +13,33 @@ This is a Haxor DX bounty challenge. For more information, see the [Haxor docs](
 
 ### Requirements
 
-> Include instructions for completing your challenge. Include needed programming languages, tools, operating system, etc. Developers will not provide feedback on any of the tools in this section, so leave your own tool installation for the next section.
-
-- NodeJS
+- Javascript
 
 ### Timeframe
 
-> Provide the expected timeframe for this project. We suggest guessing how long it would take your to accomplish, then doubling it.
-
-This challenge should take 15 - 30 minutes.
+This challenge should take 30 minutes to 1 hour.
 
 ## Instructions
 
-> Include instructions for completing your challenge. We suggest being intentionally vague to allow for a variety of solutions and feedback. It's an art. Feel free to link to your own tutorials.
-
-1. Download [this image](https://i.imgur.com/EAREK9a.png).
-2. Use the [tesseract.js documentation](https://github.com/naptha/tesseract.js#tesseractjs) to setup a Tesseract.js project
-3. Configure tesseract.js to identify the text in the image from step 1.
+1. Sign up for a [PubNub](https://www.pubnub.com/) account
+2. Use the resources available on [PubNub.com](https://www.pubnub.com/) to learn how to publish and subscribe to messages on a channel
+3. Create a webpage that includes
+  1. An input box to type a message
+  2. A submit button
+4. When the submit button is pressed, the message should sent via `pubnub.publish`
+5. Any other browser window that loads your simple chat app should receive the message via `pubnub.subscribe`
 
 ## Submitting Feedback
 
-> Communicate what kind of information you'd like to see from feedback. Any details beyond what is required by Haxor is optional for developers to provide.
-
-This is a short example, so we don't expect you to open more than one issue for this challenge.
+Make sure to submit your feedback and friction points along the way to earn points! What was confusing? What took longer than it should have?
 
 <table>
  <tr>
    <td>
-     <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206285125-c33c7ca5-2359-428a-9e18-6a67b4ecf72e.png" /></a>
+     <a href="https://github.com/haxordx/haxor-challenge-pubnub-js-getting-started/issues/new?labels=feedback"><img src="https://user-images.githubusercontent.com/318295/206285125-c33c7ca5-2359-428a-9e18-6a67b4ecf72e.png" /></a>
    </td>
    <td>
-     <a href="https://github.com/haxordx/haxor-challenge-example/issues/new?labels=bug"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
+     <a href="https://github.com/haxordx/haxor-challenge-pubnub-js-getting-started/issues/new?labels=bug"><img src="https://user-images.githubusercontent.com/318295/206284485-976ecd81-3d08-41a8-93ca-d6e940583a7c.png" /></a>
    </td>
  </tr>
   
@@ -62,20 +55,7 @@ This is a short example, so we don't expect you to open more than one issue for 
 
 ## Adding Your Solution
 
-> This is essentially the exit criteria that Haxor moderators will use to validate the developer completed the challenge.
-
-Your program should output the following text:
-
-```
-Mild Splendour of the various-vested Night!
-Mother of wildly-working visions! haill
-I watch thy gliding, while with watery light
-Thy weak eye glimmers through a fleecy veil;
-And when thou lovest thy pale orb to shroud
-Behind the gather’d blackness lost on high;
-And when thou dartest from the wind-rent cloud
-Thy placid lightning o’er the awaken’d sky.
-```
+Your Replayable replay should include a 
 
 # Hall of Fame
 

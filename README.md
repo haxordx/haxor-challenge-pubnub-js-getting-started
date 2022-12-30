@@ -55,7 +55,7 @@ Make sure to submit your feedback and friction points along the way to earn poin
 
 ## Adding Your Solution
 
-Your Replayable replay should include a 
+Your solution should include a clip of you sending a message between two browser windows.
 
 # Hall of Fame
 
